@@ -1,0 +1,2 @@
+C:\Users\onfra\Desktop\EPSI\Cours\.NET\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\onfra\Desktop\EPSI\Cours\.NET\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
